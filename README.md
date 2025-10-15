@@ -1,0 +1,1 @@
+Escape Road Rush Game 	Suggests fast-paced action and the core goal of "escaping," making it sound like a fun, challenging game using HTML , CSS , Canvas API , javascript that provide good user interface and user experience to the game https://escape-road-game.vercel.app/
